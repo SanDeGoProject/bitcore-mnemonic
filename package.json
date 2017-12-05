@@ -42,7 +42,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib": "https://github.com/janko33bd/bitcore-lib.git#iris",
+    "bitcore-lib": "https://github.com/janko33bd/bitcore-lib.git#blackcore-lib",
     "unorm": "^1.3.3"
   }
 }
